@@ -1,0 +1,13 @@
+{
+  "id": "simple",
+  "version": "0.0.1",
+  "kibanaVersion": "7.9.1",
+  "requiredPlugins": [
+    "visualizations"
+  ],
+  "server": false,
+  "ui": true,
+  "dependencies": {
+    "expr-eval": "2.0.2"
+  }
+}
